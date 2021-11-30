@@ -1,1 +1,1 @@
-# footer-usage-app
+# Maksim Asafov
